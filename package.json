@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "chai": "^3.5.0",
     "mongodb": "^2.1.10"
   },
   "devDependencies": {
